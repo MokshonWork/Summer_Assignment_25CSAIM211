@@ -30,7 +30,7 @@ Each day's folder contains the solutions for the questions assigned on that part
 ## Progress Tracker
 
 * [x] Day 01
-* [ ] Day 02
+* [x] Day 02
 * [ ] Day 03
 * [ ] Day 04
 * [ ] Day 05
