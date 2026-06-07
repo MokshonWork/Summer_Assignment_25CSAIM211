@@ -32,7 +32,7 @@ Each day's folder contains the solutions for the questions assigned on that part
 * [x] Day 01
 * [x] Day 02
 * [x] Day 03
-* [ ] Day 04
+* [x] Day 04
 * [ ] Day 05
 * [ ] Day 06
 * [ ] Day 07
