@@ -33,10 +33,10 @@ Each day's folder contains the solutions for the questions assigned on that part
 * [x] Day 02
 * [x] Day 03
 * [x] Day 04
-* [ ] Day 05
-* [ ] Day 06
-* [ ] Day 07
-* [ ] Day 08
+* [x] Day 05
+* [x] Day 06
+* [x] Day 07
+* [x] Day 08
 * [ ] Day 09
 * [ ] Day 10
 * [ ] Day 11
