@@ -47,7 +47,7 @@ Each day's folder contains the solutions for the questions assigned on that part
 * [x] Day 16
 * [x] Day 17
 * [x] Day 18
-* [ ] Day 19
+* [x] Day 19
 * [ ] Day 20
 * [ ] Day 21
 * [ ] Day 22
