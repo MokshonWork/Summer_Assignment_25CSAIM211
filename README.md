@@ -58,7 +58,7 @@ Each day's folder contains the solutions for the questions assigned on that part
 * [x] Day 27
 * [x] Day 28
 * [x] Day 29
-* [ ] Day 30
+* [x] Day 30
 
 ## Rules
 
@@ -75,4 +75,4 @@ By the end of these 30 days, I aim to strengthen my programming fundamentals, im
 ---
 
 **Challenge Duration:** 30 Days
-**Status:** In Progress 🔥
+**Status:** Completed 🔥
